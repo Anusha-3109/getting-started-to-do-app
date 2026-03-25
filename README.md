@@ -54,3 +54,11 @@ When you're done, simply remove the containers by running the following command:
 ```
 docker compose down
 ```
+# Getting Started Todo App
+
+## Docker Image
+
+Pull the image:
+
+```bash
+docker pull anusha3122/getting-started-todo-app
